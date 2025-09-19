@@ -52,7 +52,7 @@ const ChatComponent = () => {
 
     } catch (error) {
       console.error("Error calling Gemini API:", error);
-      const errorMessage = { sender: 'bot', text: 'Xin lỗi, đã có lỗi xảy ra.' };
+      const errorMessage = { sender: 'bot', text: 'Xin lỗi, đã có lỗi xảy ra, vui lòng thử lại sau ít phút...' };
       setMessages(prev => [...prev, errorMessage]);
     } finally {
       setIsLoading(false);
