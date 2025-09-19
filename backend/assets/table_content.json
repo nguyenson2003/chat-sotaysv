@@ -1,762 +1,370 @@
 [
   {
-    "content": "0. Giới thiệu Sổ tay sinh viên",
-    "from": 1,
-    "to": 6
+    "content": "Trang bìa - Sổ tay sinh viên Khóa 65, Trường Đại học Giao thông vận tải",
+    "page": 1
+  },
+  {
+    "content": "Thông tin sinh viên",
+    "page": 2
+  },
+  {
+    "content": "Trang tiêu đề - Sổ tay sinh viên",
+    "page": 3
+  },
+  {
+    "content": "Trang trống",
+    "page": 4
+  },
+  {
+    "content": "Mục lục (Phần 1)",
+    "page": 5
+  },
+  {
+    "content": "Mục lục (Phần 2)",
+    "page": 6
   },
   {
     "content": "Lời nói đầu",
-    "from": 7,
-    "to": 8
+    "page": 7
   },
   {
-    "content": "Phần 1: Giới thiệu về Trường Đại học Giao thông vận tải",
-    "from": 9,
-    "to": 13
+    "content": "Trang trống",
+    "page": 8
   },
   {
-    "content": "1. Giới thiệu chung",
-    "from": 9,
-    "to": 10
+    "content": "Phần 1: Giới thiệu về Trường - Chặng đường lịch sử",
+    "page": 9
   },
   {
-    "content": "2. Đội ngũ, cơ cấu tổ chức",
-    "from": 10,
-    "to": 10
+    "content": "Sứ mạng, Tầm nhìn, Giá trị cốt lõi, Đội ngũ và Cơ cấu tổ chức",
+    "page": 10
   },
   {
-    "content": "3. Các kênh thông tin online dành cho sinh viên",
-    "from": 11,
-    "to": 11
+    "content": "Sơ đồ tổ chức và các kênh thông tin online cho sinh viên",
+    "page": 11
   },
   {
-    "content": "4. Địa chỉ, điện thoại các đơn vị thực hiện công tác sinh viên",
-    "from": 12,
-    "to": 13
+    "content": "Địa chỉ, điện thoại các đơn vị (Phần 1)",
+    "page": 12
   },
   {
-    "content": "Phần 2: Các Quy chế, Qui định",
-    "from": 14,
-    "to": 50
+    "content": "Địa chỉ, điện thoại các đơn vị (Phần 2)",
+    "page": 13
   },
   {
-    "content": "Phần 2.1. Quy chế đào tạo đại học",
-    "from": 14,
-    "to": 35
+    "content": "Phần 2: Các quy chế, quy định - Quy chế đào tạo đại học (Chương I)",
+    "page": 14
   },
   {
-    "content": "Chương I NHỮNG QUY ĐỊNH CHUNG",
-    "from": 14,
-    "to": 17
+    "content": "Quy chế đào tạo - Chương trình và thời gian học tập",
+    "page": 15
   },
   {
-    "content": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng",
-    "from": 14,
-    "to": 14
+    "content": "Quy chế đào tạo - Phương thức và hình thức đào tạo",
+    "page": 16
   },
   {
-    "content": "Điều 2. Chương trình đào tạo và thời gian học tập",
-    "from": 14,
-    "to": 15
+    "content": "Quy chế đào tạo - Liên kết đào tạo",
+    "page": 17
   },
   {
-    "content": "Điều 3. Phương thức tổ chức đào tạo",
-    "from": 16,
-    "to": 16
+    "content": "Quy chế đào tạo - Kế hoạch giảng dạy và học tập (Chương II)",
+    "page": 18
   },
   {
-    "content": "Điều 4. Hình thức đào tạo",
-    "from": 16,
-    "to": 16
+    "content": "Quy chế đào tạo - Tổ chức đăng ký học tập",
+    "page": 19
   },
   {
-    "content": "Điều 5. Liên kết đào tạo",
-    "from": 17,
-    "to": 17
+    "content": "Quy chế đào tạo - Tổ chức giảng dạy và học tập",
+    "page": 20
   },
   {
-    "content": "Chương II LẬP KẾ HOẠCH VÀ TỔ CHỨC GIẢNG DẠY",
-    "from": 18,
-    "to": 22
+    "content": "Quy chế đào tạo - Tổ chức lớp học và trách nhiệm của giảng viên",
+    "page": 21
   },
   {
-    "content": "Điều 6. Kế hoạch giảng dạy và học tập",
-    "from": 18,
-    "to": 18
+    "content": "Quy chế đào tạo - Trách nhiệm và quyền hạn của sinh viên",
+    "page": 22
   },
   {
-    "content": "Điều 7. Tổ chức đăng ký học tập",
-    "from": 19,
-    "to": 19
+    "content": "Quy chế đào tạo - Đánh giá và tính điểm học phần (Chương III)",
+    "page": 23
   },
   {
-    "content": "Điều 8. Tổ chức giảng dạy và học tập",
-    "from": 20,
-    "to": 22
+    "content": "Quy chế đào tạo - Quy đổi điểm và quy định học lại, cải thiện điểm",
+    "page": 24
   },
   {
-    "content": "Chương III ĐÁNH GIÁ KẾT QUẢ HỌC TẬP VÀ CẤP BẰNG TỐT NGHIỆP",
-    "from": 23,
-    "to": 30
+    "content": "Quy chế đào tạo - Đánh giá kết quả học tập theo học kỳ, năm học",
+    "page": 25
   },
   {
-    "content": "Điều 9. Đánh giá và tính điểm học phần",
-    "from": 23,
-    "to": 24
+    "content": "Quy chế đào tạo - Xếp loại học lực",
+    "page": 26
   },
   {
-    "content": "Điều 10. Đánh giá kết quả học tập theo học kỳ, năm học",
-    "from": 25,
-    "to": 26
+    "content": "Quy chế đào tạo - Xử lý kết quả học tập (cảnh báo, buộc thôi học)",
+    "page": 27
   },
   {
-    "content": "Điều 11. Xử lý kết quả học tập",
-    "from": 27,
-    "to": 27
+    "content": "Quy chế đào tạo - Công nhận kết quả học tập và điều kiện làm đồ án tốt nghiệp",
+    "page": 28
   },
   {
-    "content": "Điều 12. Công nhận kết quả học tập và chuyển đổi tín chỉ",
-    "from": 28,
-    "to": 28
+    "content": "Quy chế đào tạo - Đánh giá đồ án và công nhận tốt nghiệp",
+    "page": 29
   },
   {
-    "content": "Điều 13. Điều kiện nhận đồ án tốt nghiệp và bảo vệ đồ án tốt nghiệp",
-    "from": 28,
-    "to": 28
+    "content": "Quy chế đào tạo - Hạng tốt nghiệp và quy trình xét tốt nghiệp",
+    "page": 30
   },
   {
-    "content": "Điều 14. Đánh giá học phần đồ án tốt nghiệp",
-    "from": 29,
-    "to": 29
+    "content": "Quy chế đào tạo - Nghỉ học tạm thời, thôi học, chuyển ngành (Chương IV)",
+    "page": 31
   },
   {
-    "content": "Điều 15. Công nhận tốt nghiệp và cấp bằng tốt nghiệp",
-    "from": 29,
-    "to": 30
+    "content": "Quy chế đào tạo - Thủ tục chuyển trường, chuyển ngành",
+    "page": 32
   },
   {
-    "content": "Chương IV NHỮNG QUY ĐỊNH KHÁC ĐỐI VỚI SINH VIÊN",
-    "from": 31,
-    "to": 33
+    "content": "Quy chế đào tạo - Trao đổi sinh viên và học song bằng",
+    "page": 33
   },
   {
-    "content": "Điều 16. Nghỉ học tạm thời, thôi học",
-    "from": 31,
-    "to": 31
+    "content": "Quy chế đào tạo - Học liên thông và xử lý vi phạm",
+    "page": 34
   },
   {
-    "content": "Điều 17. Chuyển ngành, chuyển nơi học, chuyển cơ sở đào tạo, chuyển hình thức học",
-    "from": 31,
-    "to": 32
+    "content": "Tổ chức thực hiện quy chế và quy định chuẩn đầu ra ngoại ngữ",
+    "page": 35
   },
   {
-    "content": "Điều 18. Trao đổi sinh viên và hợp tác trong đào tạo",
-    "from": 33,
-    "to": 33
+    "content": "Quy định ngoại ngữ - Chương trình và tổ chức đào tạo",
+    "page": 36
   },
   {
-    "content": "Điều 19. Học cùng lúc hai chương trình",
-    "from": 33,
-    "to": 33
+    "content": "Quy định ngoại ngữ - Tổ chức lớp học và thi đánh giá",
+    "page": 37
   },
   {
-    "content": "Điều 20. Học liên thông đối với người có văn bằng khác",
-    "from": 34,
-    "to": 34
+    "content": "Phần 2.3: Quy định về đánh giá rèn luyện sinh viên - Tiêu chí và phân loại",
+    "page": 38
   },
   {
-    "content": "Điều 21. Xử lý vi phạm đối với sinh viên",
-    "from": 34,
-    "to": 34
+    "content": "Quy định về đánh giá rèn luyện - Các trường hợp đặc biệt",
+    "page": 39
   },
   {
-    "content": "Chương V TỔ CHỨC THỰC HIỆN",
-    "from": 35,
-    "to": 35
+    "content": "Sử dụng kết quả rèn luyện và Phần 2.4: Quy định về kỷ luật sinh viên",
+    "page": 40
   },
   {
-    "content": "Điều 22. Thực hiện quy chế",
-    "from": 35,
-    "to": 35
+    "content": "Quy định kỷ luật - Các hành vi không được làm và hình thức kỷ luật",
+    "page": 41
   },
   {
-    "content": "Phần 2.2. Qui định về chuẩn đầu ra ngoại ngữ",
-    "from": 35,
-    "to": 37
+    "content": "Phần 2.5: Quy định về học bổng khuyến khích học tập",
+    "page": 42
   },
   {
-    "content": "1. Chương trình đào tạo ngoại ngữ",
-    "from": 36,
-    "to": 36
+    "content": "Học bổng chính sách và Phần 2.6: Quy định về chế độ chính sách",
+    "page": 43
   },
   {
-    "content": "2. Tổ chức đào tạo ngoại ngữ",
-    "from": 36,
-    "to": 37
+    "content": "Chế độ chính sách - Đối tượng miễn 100% học phí",
+    "page": 44
   },
   {
-    "content": "2.1. Đăng ký chọn ngoại ngữ và kiểm tra phân loại trình độ ngoại ngữ",
-    "from": 36,
-    "to": 36
+    "content": "Chế độ chính sách - Đối tượng giảm học phí và trợ cấp ưu đãi",
+    "page": 45
   },
   {
-    "content": "2.2. Tổ chức lớp học ngoại ngữ",
-    "from": 37,
-    "to": 37
+    "content": "Chế độ chính sách - Quy trình nhận ưu đãi và trợ cấp xã hội",
+    "page": 46
   },
   {
-    "content": "2.3. Tổ chức thi đánh giá trình độ ngoại ngữ",
-    "from": 37,
-    "to": 37
+    "content": "Chế độ chính sách - Hỗ trợ chi phí học tập và hồ sơ cần nộp",
+    "page": 47
   },
   {
-    "content": "Phần 2.3. Quy định về đánh giá rèn luyện sinh viên",
-    "from": 38,
-    "to": 41
+    "content": "Phần 2.7: Quy định về vay vốn tín dụng - Đối tượng vay",
+    "page": 48
   },
   {
-    "content": "1. Các tiêu chí đánh giá và khung điểm",
-    "from": 38,
-    "to": 38
+    "content": "Vay vốn tín dụng và Phần 2.8: Quy định quản lý sinh viên ngoại trú",
+    "page": 49
   },
   {
-    "content": "2. Phân loại kết quả rèn luyện",
-    "from": 38,
-    "to": 38
+    "content": "Quy định sinh viên ngoại trú - Mục đích, quyền và nghĩa vụ",
+    "page": 50
   },
   {
-    "content": "3. Phân loại để đánh giá",
-    "from": 38,
-    "to": 39
+    "content": "Phần 3: Hướng dẫn thực hiện - Tài khoản quản lý đào tạo và đăng ký học",
+    "page": 51
   },
   {
-    "content": "4. Kết quả đánh giá",
-    "from": 40,
-    "to": 40
+    "content": "Hướng dẫn đăng ký học trên hệ thống quản lý đào tạo",
+    "page": 52
   },
   {
-    "content": "5. Quyền và nghĩa vụ của sinh viên",
-    "from": 40,
-    "to": 40
+    "content": "Hướng dẫn đánh giá rèn luyện sinh viên",
+    "page": 53
   },
   {
-    "content": "Phần 2.4. Quy định về kỷ luật sinh viên",
-    "from": 40,
-    "to": 41
+    "content": "Hướng dẫn đánh giá cố vấn học tập và quy trình kỷ luật",
+    "page": 54
   },
   {
-    "content": "1. Các hành vi sinh viên không được làm",
-    "from": 40,
-    "to": 41
+    "content": "Quy trình cấp giấy xác nhận chế độ chính sách",
+    "page": 55
   },
   {
-    "content": "2. Hình thức kỷ luật và nội dung vi phạm",
-    "from": 41,
-    "to": 41
+    "content": "Quy trình cấp giấy xác nhận vay vốn và quy trình cấp thẻ sinh viên",
+    "page": 56
   },
   {
-    "content": "Phần 2.5. Quy định về học bổng",
-    "from": 42,
-    "to": 43
+    "content": "Hoạt động sinh viên - Tổ chức Đoàn, Hội",
+    "page": 57
   },
   {
-    "content": "1. Học bổng khuyến khích học tập",
-    "from": 42,
-    "to": 42
+    "content": "Danh sách các câu lạc bộ, đội, nhóm",
+    "page": 58
   },
   {
-    "content": "2. Học bổng chính sách",
-    "from": 43,
-    "to": 43
+    "content": "Tổ chức Đoàn Thanh niên",
+    "page": 59
   },
   {
-    "content": "Phần 2.6. Quy định về chế độ chính sách",
-    "from": 43,
-    "to": 47
+    "content": "Tổ chức Hội Sinh viên",
+    "page": 60
   },
   {
-    "content": "1. Miễn giảm học phí",
-    "from": 44,
-    "to": 45
+    "content": "IX. Trung tâm Thông tin - Thư viện: Thông tin chung",
+    "page": 61
   },
   {
-    "content": "2. Trợ cấp ưu đãi",
-    "from": 45,
-    "to": 46
+    "content": "Thư viện - Quyền lợi và trách nhiệm của sinh viên",
+    "page": 62
   },
   {
-    "content": "3. Trợ cấp xã hội",
-    "from": 46,
-    "to": 46
+    "content": "Thư viện - Quy định mượn trả giáo trình và tài liệu tham khảo",
+    "page": 63
   },
   {
-    "content": "4. Hỗ trợ chi phí học tập",
-    "from": 47,
-    "to": 47
+    "content": "Thư viện - Hướng dẫn đọc tài liệu tại chỗ",
+    "page": 64
   },
   {
-    "content": "5. Hồ sơ",
-    "from": 47,
-    "to": 47
+    "content": "X. Ký túc xá: Giới thiệu và thủ tục đăng ký",
+    "page": 65
   },
   {
-    "content": "Phần 2.7. Quy định về vay vốn tín dụng",
-    "from": 48,
-    "to": 49
+    "content": "Ký túc xá - Quy định về thời gian ở và mức phí",
+    "page": 66
   },
   {
-    "content": "1. Đối tượng được vay vốn",
-    "from": 48,
-    "to": 48
+    "content": "Thủ tục cho sinh viên ngoại trú và Chăm sóc y tế, bảo hiểm",
+    "page": 67
   },
   {
-    "content": "2. Mức vốn cho vay",
-    "from": 49,
-    "to": 49
+    "content": "Chăm sóc y tế - Quy trình, thủ tục khám bệnh và thanh toán bảo hiểm",
+    "page": 68
   },
   {
-    "content": "3. Lãi suất cho vay",
-    "from": 49,
-    "to": 49
+    "content": "XIII. Học phí - Học bổng, Trợ cấp: Hướng dẫn đăng nhập và thanh toán",
+    "page": 69
   },
   {
-    "content": "4. Thời hạn cho vay",
-    "from": 49,
-    "to": 49
+    "content": "Hướng dẫn thanh toán học phí online (Giao diện đăng nhập)",
+    "page": 70
   },
   {
-    "content": "5. Trả nợ gốc và lãi tiền vay",
-    "from": 49,
-    "to": 49
+    "content": "Hướng dẫn thanh toán học phí online (Giao diện hệ thống sinh viên)",
+    "page": 71
   },
   {
-    "content": "Phần 2.8. Quy định quản lý sinh viên ngoại trú",
-    "from": 49,
-    "to": 50
+    "content": "Hướng dẫn thanh toán học phí online (Giao diện thanh toán)",
+    "page": 72
   },
   {
-    "content": "1. Mục đích",
-    "from": 50,
-    "to": 50
+    "content": "Hướng dẫn thanh toán học phí bằng QR Code và xử lý học phí dư",
+    "page": 73
   },
   {
-    "content": "2. Quyền của học sinh, sinh viên ngoại trú",
-    "from": 50,
-    "to": 50
+    "content": "XIV. Email sinh viên: Thông tin và hướng dẫn sử dụng",
+    "page": 74
   },
   {
-    "content": "3. Nghĩa vụ của học sinh, sinh viên ngoại trú",
-    "from": 50,
-    "to": 50
+    "content": "XV. Hướng dẫn cài đặt và sử dụng App eUTC (Android)",
+    "page": 75
   },
   {
-    "content": "Phần 3: Hướng dẫn thực hiện",
-    "from": 51,
-    "to": 60
+    "content": "Hướng dẫn cài đặt App eUTC (Giao diện Android)",
+    "page": 76
   },
   {
-    "content": "I. Tài khoản quản lý đào tạo và đăng ký học",
-    "from": 51,
-    "to": 52
+    "content": "Hướng dẫn cài đặt App eUTC (IOS)",
+    "page": 77
   },
   {
-    "content": "1. Hướng dẫn sử dụng tài khoản QLĐT",
-    "from": 51,
-    "to": 52
+    "content": "Hướng dẫn sử dụng App eUTC (Giao diện chính)",
+    "page": 78
   },
   {
-    "content": "1.1. Tài khoản",
-    "from": 51,
-    "to": 51
+    "content": "Hướng dẫn sử dụng App eUTC (Đăng nhập)",
+    "page": 79
   },
   {
-    "content": "1.2. Lấy lại mật khẩu",
-    "from": 51,
-    "to": 52
+    "content": "Hướng dẫn sử dụng App eUTC (Giao diện nhập tài khoản, mật khẩu)",
+    "page": 80
   },
   {
-    "content": "2. Hướng dẫn đăng ký học",
-    "from": 52,
-    "to": 52
+    "content": "Hướng dẫn sử dụng App eUTC (Màn hình chính - Lịch học và tin tức)",
+    "page": 81
   },
   {
-    "content": "II. Đánh giá rèn luyện sinh viên",
-    "from": 53,
-    "to": 53
+    "content": "Hướng dẫn sử dụng App eUTC (Phân hệ Tin tức)",
+    "page": 82
   },
   {
-    "content": "1. Thời gian đánh giá",
-    "from": 53,
-    "to": 53
+    "content": "Hướng dẫn sử dụng App eUTC (Giao diện Tin tức)",
+    "page": 83
   },
   {
-    "content": "2. Hướng dẫn thực hiện",
-    "from": 53,
-    "to": 53
+    "content": "Hướng dẫn sử dụng App eUTC (Phân hệ Lịch học)",
+    "page": 84
   },
   {
-    "content": "3. Sử dụng kết quả RLSV",
-    "from": 53,
-    "to": 53
+    "content": "Hướng dẫn sử dụng App eUTC (Phân hệ Bảng điểm)",
+    "page": 85
   },
   {
-    "content": "4. Quyền và nghĩa vụ của sinh viên",
-    "from": 53,
-    "to": 53
+    "content": "Hướng dẫn sử dụng App eUTC (Chức năng đăng xuất)",
+    "page": 86
   },
   {
-    "content": "III. Đánh giá cố vấn học tập",
-    "from": 54,
-    "to": 54
+    "content": "XVI. Quản lý hồ sơ và thanh toán tài sản khi ra trường",
+    "page": 87
   },
   {
-    "content": "1. Thời gian đánh giá CVHT",
-    "from": 54,
-    "to": 54
+    "content": "Lịch tiếp sinh viên của các đơn vị (Phần 1)",
+    "page": 88
   },
   {
-    "content": "2. Hướng dẫn thực hiện đánh giá CVHT",
-    "from": 54,
-    "to": 54
-  },
-  {
-    "content": "IV. Quy trình kỷ luật và chấm dứt kỷ luật",
-    "from": 54,
-    "to": 55
-  },
-  {
-    "content": "1. Trình tự và thủ tục xét kỷ luật",
-    "from": 54,
-    "to": 54
-  },
-  {
-    "content": "2. Hồ sơ xử lý kỷ luật của sinh viên",
-    "from": 54,
-    "to": 54
-  },
-  {
-    "content": "3. Chấm dứt hiệu lực của quyết định kỷ luật",
-    "from": 55,
-    "to": 55
-  },
-  {
-    "content": "4. Đơn vị thường trực giải quyết các vấn đề kỷ luật sinh viên",
-    "from": 55,
-    "to": 55
-  },
-  {
-    "content": "V. Quy trình cấp giấy xác nhận chế độ chính sách",
-    "from": 55,
-    "to": 55
-  },
-  {
-    "content": "1. Sinh viên thuộc diện chính sách bắt buộc phải nộp hồ sơ để được hưởng chế độ ưu đãi",
-    "from": 55,
-    "to": 55
-  },
-  {
-    "content": "2. Sinh viên thuộc đối tượng thân nhân của người có công với cách mạng,...",
-    "from": 55,
-    "to": 55
-  },
-  {
-    "content": "VI. Quy trình cấp giấy xác nhận vay vốn tín dụng",
-    "from": 56,
-    "to": 56
-  },
-  {
-    "content": "1. Sinh viên thuộc đối tượng được vay vốn đăng ký online thông qua dịch vụ trực tuyến dành cho sinh viên",
-    "from": 56,
-    "to": 56
-  },
-  {
-    "content": "2. Sinh viên hoặc gia đình sinh viên sẽ tiến hành thủ tục vay vốn tại Ngân hàng chính sách xã hội của địa phương nơi mình cư trú",
-    "from": 56,
-    "to": 56
-  },
-  {
-    "content": "VII. Quy trình cấp thẻ sinh viên",
-    "from": 56,
-    "to": 57
-  },
-  {
-    "content": "1. Quyền lợi của sinh viên",
-    "from": 56,
-    "to": 56
-  },
-  {
-    "content": "2. Trách nhiệm của sinh viên",
-    "from": 56,
-    "to": 56
-  },
-  {
-    "content": "3. Quy trình cấp thẻ",
-    "from": 57,
-    "to": 57
-  },
-  {
-    "content": "VIII. Hoạt động sinh viên - tổ chức đoàn, hội...",
-    "from": 57,
-    "to": 60
-  },
-  {
-    "content": "1. Hoạt động sinh viên",
-    "from": 57,
-    "to": 58
-  },
-  {
-    "content": "2. Tổ chức Đoàn, Hội",
-    "from": 59,
-    "to": 60
-  },
-  {
-    "content": "IX. Trung tâm thông tin - thư viện",
-    "from": 61,
-    "to": 64
-  },
-  {
-    "content": "1. Thông tin chung",
-    "from": 61,
-    "to": 61
-  },
-  {
-    "content": "2. Một số quy định",
-    "from": 61,
-    "to": 62
-  },
-  {
-    "content": "3. Một số dịch vụ tại Trung tâm Thông tin - Thư viện",
-    "from": 62,
-    "to": 64
-  },
-  {
-    "content": "X. Ký túc xá",
-    "from": 65,
-    "to": 66
-  },
-  {
-    "content": "1. Giới thiệu chung",
-    "from": 65,
-    "to": 65
-  },
-  {
-    "content": "2. Quy trình đăng ký ở, trả phòng KTX",
-    "from": 65,
-    "to": 66
-  },
-  {
-    "content": "3. Quy định về thời gian ở nội trú",
-    "from": 66,
-    "to": 66
-  },
-  {
-    "content": "4. Mức phí đóng, nộp khi sinh viên vào KTX",
-    "from": 66,
-    "to": 66
-  },
-  {
-    "content": "XI. Thủ tục đăng ký và cấp xác nhận cho sinh viên ngoại trú",
-    "from": 67,
-    "to": 67
-  },
-  {
-    "content": "1. Thủ tục đăng ký ngoại trú",
-    "from": 67,
-    "to": 67
-  },
-  {
-    "content": "2. Thủ tục xác nhận sinh viên để đăng ký tạm trú, tạm vắng tại công an phường (xã) nơi cư trú",
-    "from": 67,
-    "to": 67
-  },
-  {
-    "content": "XII. Chăm sóc y tế - thanh toán bảo hiểm",
-    "from": 67,
-    "to": 68
-  },
-  {
-    "content": "1. Các quy định",
-    "from": 67,
-    "to": 67
-  },
-  {
-    "content": "2. Quy trình, thủ tục khi đi khám bệnh",
-    "from": 68,
-    "to": 68
-  },
-  {
-    "content": "3. Thanh toán bảo hiểm",
-    "from": 68,
-    "to": 68
-  },
-  {
-    "content": "XIII. Học phí - học bổng, trợ cấp",
-    "from": 69,
-    "to": 73
-  },
-  {
-    "content": "1. ĐĂNG NHẬP",
-    "from": 69,
-    "to": 71
-  },
-  {
-    "content": "2. Thanh toán online",
-    "from": 72,
-    "to": 72
-  },
-  {
-    "content": "5. Học phí dư",
-    "from": 73,
-    "to": 73
-  },
-  {
-    "content": "6. Phát học bổng và Trợ cấp xã hội",
-    "from": 73,
-    "to": 73
-  },
-  {
-    "content": "7. Đơn vị phụ trách",
-    "from": 73,
-    "to": 73
-  },
-  {
-    "content": "XIV. Email sinh viên",
-    "from": 74,
-    "to": 74
-  },
-  {
-    "content": "1. Thông tin về tài khoản email",
-    "from": 74,
-    "to": 74
-  },
-  {
-    "content": "2. Hướng dẫn đăng nhập",
-    "from": 74,
-    "to": 74
-  },
-  {
-    "content": "3. Quên mật khẩu hoặc cần hỗ trợ kỹ thuật",
-    "from": 74,
-    "to": 74
-  },
-  {
-    "content": "4. Lưu ý",
-    "from": 74,
-    "to": 74
-  },
-  {
-    "content": "XV. Tài liệu hướng dẫn cài đặt và sử dụng APP eUTC",
-    "from": 75,
-    "to": 86
-  },
-  {
-    "content": "1. Cài đặt App",
-    "from": 75,
-    "to": 77
-  },
-  {
-    "content": "1.1. Cài đặt app trên hệ điều hành Android",
-    "from": 75,
-    "to": 76
-  },
-  {
-    "content": "1.2. Cài đặt app trên hệ điều hành IOS",
-    "from": 77,
-    "to": 77
-  },
-  {
-    "content": "2. Đăng nhập và sử dụng app eUTC",
-    "from": 77,
-    "to": 86
-  },
-  {
-    "content": "2.1. Phân hệ Tin tức",
-    "from": 82,
-    "to": 83
-  },
-  {
-    "content": "2.2. Phân hệ Lịch học",
-    "from": 84,
-    "to": 84
-  },
-  {
-    "content": "2.3. Phân hệ bảng điểm sinh viên",
-    "from": 85,
-    "to": 85
-  },
-  {
-    "content": "3. Đăng xuất",
-    "from": 86,
-    "to": 86
-  },
-  {
-    "content": "XVI. Quản lý hồ sơ - thanh toán tài sản ra trường",
-    "from": 87,
-    "to": 87
-  },
-  {
-    "content": "1. Quản lý hồ sơ sinh viên",
-    "from": 87,
-    "to": 87
-  },
-  {
-    "content": "2. Thanh toán tài sản ra trường",
-    "from": 87,
-    "to": 87
-  },
-  {
-    "content": "Lịch tiếp sinh viên của các đơn vị",
-    "from": 88,
-    "to": 89
-  },
-  {
-    "content": "Cấp giấy xác nhận sinh viên về việc",
-    "from": 88,
-    "to": 88
-  },
-  {
-    "content": "Cấp giấy giới thiệu đi thực tập",
-    "from": 88,
-    "to": 88
-  },
-  {
-    "content": "Đóng dấu, công văn, giấy tờ",
-    "from": 89,
-    "to": 89
-  },
-  {
-    "content": "Bảo lưu kết quả học tập, xin thôi học",
-    "from": 89,
-    "to": 89
-  },
-  {
-    "content": "Cấp lại mật khẩu account trang QLĐT",
-    "from": 89,
-    "to": 89
-  },
-  {
-    "content": "Hỗ trợ các vấn đề liên quan đến Email sinh viên",
-    "from": 89,
-    "to": 89
-  },
-  {
-    "content": "Cấp lại thẻ sinh viên",
-    "from": 89,
-    "to": 89
+    "content": "Lịch tiếp sinh viên của các đơn vị (Phần 2)",
+    "page": 89
   },
   {
     "content": "Ghi chép",
-    "from": 90,
-    "to": 90
+    "page": 90
   },
   {
-    "content": "Các tuyến xe buýt đến Trường Đại học Giao thông vận tải",
-    "from": 91,
-    "to": 91
+    "content": "Các tuyến xe buýt đến trường",
+    "page": 91
   },
   {
-    "content": "Thông tin liên hệ (Trụ sở chính & Phân hiệu TP. Hồ Chí Minh)",
-    "from": 92,
-    "to": 92
+    "content": "Thông tin liên hệ trụ sở chính và phân hiệu, trang bìa sau",
+    "page": 92
   }
 ]
